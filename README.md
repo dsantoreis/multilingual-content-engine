@@ -78,7 +78,7 @@ Source Content (any language)
 
 ## About
 
-Built by **Daniel Santo Reis** — AI Engineer based in Zurich, Switzerland. Native Portuguese/English speaker, operating in a 4-language country.
+Built by **Daniel dos Santo Reis** — AI Engineer based in Zurich, Switzerland. Native Portuguese/English speaker, operating in a 4-language country.
 Part of the [Loomix](https://github.com/loomix-ai) ecosystem.
 
 ## License
