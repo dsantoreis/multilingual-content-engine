@@ -1,3 +1,5 @@
+![Hero](assets/hero.png)
+
 <h1 align="center">Multilingual Content Engine</h1>
 
 <p align="center">
